@@ -43,6 +43,3 @@ ORDER BY
     annual_income_aud DESC, 
     full_name ASC, 
     customer_id ASC;
-
-
-
